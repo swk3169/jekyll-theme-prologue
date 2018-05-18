@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Projects
+subtitle: a list of Projects
 layout: "page"
 icon: fa-book
 order: 3
@@ -8,15 +8,10 @@ order: 3
 
 I love books! Here are some I'm reading now:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. kumoh-info: *금오공대 알리미 어플리케이션, 2017.07.07~2017.09.01*
+2. onetouch-mobile: *모바일 런처 클론, 2018.01.02~2018.02.27*
+3. picture-upload: *사용자 위치기반 여행지도 웹 어플리케이션 with Nomad Hackathon, 2018.03.17~2018.03.18*
+4. kumoh-smartmirror: *SNS를 이용한 금오공대 스마트 미러, 2018.02.19~2018.05.29*
+5. pic-up: *사용자 위치기반 여행지도 서비스 with 한이음 ICT 멘토링, 2018.04.01~2018.11.01*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+source: [My GitHub](https://github.com/swk3169)
