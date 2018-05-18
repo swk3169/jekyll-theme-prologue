@@ -17,4 +17,4 @@ with Nomad Hackathon, 2018.03.17~2018.03.18*
 5. pic-up: *사용자 위치기반 여행지도 서비스
 with 한이음 ICT 멘토링, 2018.04.01~2018.11.01*
 
-source: [My GitHub](https://github.com/swk3169)
+source: [https://github.com/swk3169](https://github.com/swk3169)
