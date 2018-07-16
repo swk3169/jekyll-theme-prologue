@@ -2,9 +2,7 @@
 title: Blog Link
 author: SonWooKyu
 layout: post
-syntax: [Blog](http://swk3169.tistory.com/)
 
 ---
 
-Hello World
-
+source: [http://swk3169.tistory.com/](http://swk3169.tistory.com/)

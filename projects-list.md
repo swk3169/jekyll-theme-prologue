@@ -4,7 +4,6 @@ subtitle: a list of Projects
 layout: "page"
 icon: fa-book
 order: 3
-syntax: [source](https://github.com/swk3169)
 ---
 
 1. kumoh-info: *금오공과대학교 생활 애플리케이션
