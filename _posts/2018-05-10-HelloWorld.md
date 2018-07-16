@@ -1,8 +1,8 @@
 ---
-title: Blog Site
+title: Hello World
 author: SonWooKyu
 layout: post
 ---
-<a href=http://swk3169.tistory.com>http://swk3169.tistory.com/</a> All my blog content is here.
 
+Hello World
 
