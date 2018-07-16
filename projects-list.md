@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: a list of Projects
+subtitle: [https://github.com/swk3169](https://github.com/swk3169)
 layout: "page"
 icon: fa-book
 order: 3
