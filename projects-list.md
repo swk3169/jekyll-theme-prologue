@@ -1,6 +1,5 @@
 ---
 title: Projects
-subtitle: [https://github.com/swk3169](https://github.com/swk3169)
 layout: "page"
 icon: fa-book
 order: 3
@@ -19,4 +18,4 @@ with Nomad Hackathon, 2018.03.17~2018.03.18*
 6. pic-up: *사용자 위치기반 여행지도 서비스
 with 한이음 ICT 멘토링, 2018.04.01~2018.11.01*
 
-source: [https://github.com/swk3169](https://github.com/swk3169)
+source (ctrl + btn): [https://github.com/swk3169](https://github.com/swk3169)
